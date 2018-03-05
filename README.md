@@ -9,3 +9,7 @@ ECLAR ist eine Plattform,
 Auf diese Weise hoffen wir, die Studierenden zur Diskussion über und zur vertieften Beschäftigung mit Texten zu motivieren (prinzipiell kann die Teilnahme nachvollzogen und bei prüfungsimmanenten LVs in die Benotung einbezogen werden). Gerade bei voraussetzungsreichen, z. B. literaturtheoretischen Texten ist der Austausch über die eine oder andere schwierige Passage darüber hinaus für die Studierenden sicherlich hilfreich, diesbezügliche Hürden zu bewältigen.
 
 Der LV-Leitung gibt der Einblick in die Annotationen der Studierenden darüber hinaus die Möglichkeit, auf dort aufgetauchte Fragen oder Schwierigkeiten etc. besonders einzugehen.
+
+## Technische Details
+
+ECLAR nutzt das [pdf.js](https://github.com/mozilla/pdf.js) und das Annotationsprogramm [pundit](http://thepund.it/) und läuft in Chrome.
