@@ -13,3 +13,7 @@ Der LV-Leitung gibt der Einblick in die Annotationen der Studierenden darüber h
 ## Technische Details
 
 ECLAR nutzt das [pdf.js](https://github.com/mozilla/pdf.js) und das Annotationsprogramm [pundit](http://thepund.it/) und läuft in Chrome.
+
+## Entwicklung und Kontakt
+[Ingo Börner](mailto:ingo.boerner@univie.ac.at)
+[Bernhard Oberreither](mailto:bernhard.oberreither@univie.ac.at)
