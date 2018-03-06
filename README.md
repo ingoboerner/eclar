@@ -16,4 +16,5 @@ ECLAR nutzt das [pdf.js](https://github.com/mozilla/pdf.js) und das Annotationsp
 
 ## Entwicklung und Kontakt
 [Ingo Börner](mailto:ingo.boerner@univie.ac.at)
+
 [Bernhard Oberreither](mailto:bernhard.oberreither@univie.ac.at)
