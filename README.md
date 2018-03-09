@@ -58,6 +58,7 @@ Ihr Browser wird Sie fragen, ob das Programm hinzufügen wollen. Klicken Sie auf
 Sie können nun den Pundit Annotator nutzen, um auf den von der LV-Leitung zur Verfügung gestellten online-Dokumenten für Ihre KollegInnen sichtbare Kommentare und Markierungen zu hinterlassen.
 
 <b>Schritt 1:</b> Öffnen Sie das betreffende PDF-Dokument in Ihrem Chrome-Browser.
+
 <b>Schritt 2:</b> Klicken Sie nun rechts oben in Ihrem Browser auf das Pundit-Symbol, um den Annotator zu starten.
 Wenn Sie nun mit Ihrem Cursor das erscheinende runde Pundit-Icon berühren, haben Sie die Möglichkeit, den Sidebar zu öffnen – tun Sie das. In einem vertikalen Rand an der rechten Seite Ihres Browsers werden nun alle Annotationen sichtbar, die es im betreffenden Dokument schon gibt.
 
